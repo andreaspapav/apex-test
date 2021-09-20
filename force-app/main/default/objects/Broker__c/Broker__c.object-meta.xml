@@ -159,7 +159,6 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>Brokers</pluralLabel>
-    <searchLayouts></searchLayouts>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>
